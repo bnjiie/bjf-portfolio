@@ -14,19 +14,19 @@ function Program() {
                 <div id="box">
                     <div id="box1">
                         <div>
-                            <a target="_blank" href="https://bnjiie.github.io/fcb-portfolio-fernandez/">
+                            <a href="https://bnjiie.github.io/fcb-portfolio-fernandez/">
                             <img src={proj1} />
                             </a>   
                             <p>A portfolio made during the free coding bootcamp using HTML, CSS, and Bootsrap.</p>
                         </div>
                         <div>
-                            <a target="_blank" href="https://fcb-react-aws.netlify.app">
+                            <a href="https://fcb-react-aws.netlify.app">
                             <img src={proj2} />
                             </a> 
                             <p>A project made with React and deployed in AWS.</p>
                         </div>
                         <div>
-                            <a target="_blank" href="https://js-crash-course.netlify.app">
+                            <a href="https://js-crash-course.netlify.app">
                             <img src={proj3} />
                             </a> 
                             <p>Online tutorial challenges using CSS, HTML and Javascript</p>
